@@ -17,5 +17,5 @@ L(c) = w₁ / sin(a + c) + w₂ / sin(c)
 
 ## 🚀 How to run
 ```bash
-pip install numpy scipy
+pip install numpy
 python ladder_solver.py
